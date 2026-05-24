@@ -1,0 +1,4294 @@
+[
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3121",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "黃國超",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "思源425",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3121",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3121"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3122",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "魯瑞菁",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "思源326",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3122",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3122"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3123",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "邱各容",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "思源327",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3123",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3123"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3124",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "温珮琪",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣405",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3124",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3124"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3125",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "譚立忠",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "思源325",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3125",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3125"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3126",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "呂政冠",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "思源429",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3126",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3126"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3127",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "戴嘉辰",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "主顧113",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3127",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3127"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3128",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "黃國超",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源423",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3128",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3128"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3129",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "呂素端",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源425",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3129",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3129"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3130",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "邱各容",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源426",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3130",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3130"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3131",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "温珮琪",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "任垣405",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3131",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3131"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3132",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "譚立忠",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源326",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3132",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3132"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3133",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "呂政冠",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源429",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3133",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3133"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3134",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "戴嘉辰",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "主顧222",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3134",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3134"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3439",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "乃俊廷",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源213",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3439",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3439"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3136",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "陳紹慈",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣304",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3136",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3136"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3137",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "簡佩琦",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "思源416",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3137",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3137"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3138",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "劉庭彰",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "主顧102",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3138",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3138"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3139",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "蔡佩均",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "計308",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3139",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3139"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3140",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "洪麗玫",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "格倫112",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3140",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3140"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3141",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "傅素春",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "主顧107",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3141",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3141"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3142",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "朱錦雄",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "靜安252",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3142",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3142"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3143",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "林灸珍",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "任垣408",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3143",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3143"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3144",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "陳敬介",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "靜安127",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3144",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3144"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3145",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "彭心怡",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "靜安421",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3145",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3145"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3146",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "簡佩琦",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源416",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3146",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3146"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3147",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "黃慧鳳",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "計308",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3147",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3147"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3148",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "乃俊廷",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸232",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3148",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3148"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3149",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "陳玘秀",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸417",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3149",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3149"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3150",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "張靜茹",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸216",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3150",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3150"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3151",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "藍建春",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣402",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3151",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3151"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3152",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "林宗毅",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣308",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3152",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3152"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3153",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "陳紹慈",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣410",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3153",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3153"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3154",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "汪淑珍",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣309",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3154",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3154"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3155",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "陳瑤玲",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣510",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3155",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3155"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3156",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "黃慧鳳",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "主顧203",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3156",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3156"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3157",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "朱錦雄",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸217",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3157",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3157"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3158",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "謝政修",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸136",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3158",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3158"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3159",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "乃俊廷",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸232",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3159",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3159"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3160",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "陳玘秀",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸417",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3160",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3160"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3161",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "蔡佩均",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "計308",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3161",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3161"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3162",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "洪麗玫",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸134",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3162",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3162"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3163",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "林宗毅",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "任垣308",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3163",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3163"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3164",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "謝政修",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸434",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3164",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3164"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3165",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "洪然升",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "主顧102",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3165",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3165"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3166",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "卓素絹",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "主顧104",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3166",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3166"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3167",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "林灸珍",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "主顧215",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3167",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3167"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3168",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "呂政冠",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "主顧219",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3168",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3168"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3169",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "蕭崇聖",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "主顧211",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3169",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3169"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3170",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "呂素端",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "主顧109",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3170",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3170"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3171",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "邱培超",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "主顧209",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3171",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3171"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3172",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "洪然升",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "主顧102",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3172",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3172"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3173",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "卓素絹",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "主顧104",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3173",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3173"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3174",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "林灸珍",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "主顧215",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3174",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3174"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3175",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "呂政冠",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "主顧219",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3175",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3175"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3176",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "蕭崇聖",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "主顧211",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3176",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3176"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3177",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "陳玘秀",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "主顧109",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3177",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3177"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3178",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "傅素春",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    10,
+                    11
+                ],
+                "location": "思源314",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1141_3178",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(一)",
+        "id": "1141_3178"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2968",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "黃國超",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "思源425",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2968",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2968"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2969",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "魯瑞菁",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "思源326",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2969",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2969"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2970",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "邱各容",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "思源327",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2970",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2970"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2971",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "温珮琪",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣405",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2971",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2971"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2972",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "譚立忠",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "思源325",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2972",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2972"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2973",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "呂政冠",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "思源429",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2973",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2973"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2974",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "戴嘉辰",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "主顧113",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2974",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2974"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2975",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "黃國超",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源423",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2975",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2975"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2976",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "呂素端",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源425",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2976",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2976"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2977",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "邱各容",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源426",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2977",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2977"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2978",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "温珮琪",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "任垣405",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2978",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2978"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2979",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "譚立忠",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源326",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2979",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2979"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2980",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "呂政冠",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源429",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2980",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2980"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2981",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "戴嘉辰",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "主顧222",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2981",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2981"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2982",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "乃俊廷",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源213",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2982",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2982"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2983",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "林灸珍",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣402",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2983",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2983"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2984",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "簡佩琦",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "思源416",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2984",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2984"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2985",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "劉庭彰",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "主顧102",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2985",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2985"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2986",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "蔡佩均",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "計308",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2986",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2986"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2987",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "洪麗玫",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "格倫112",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2987",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2987"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2988",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "傅素春",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "主顧107",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2988",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2988"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2989",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "朱錦雄",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "靜安252",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2989",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2989"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2990",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "林灸珍",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "任垣408",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2990",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2990"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2991",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "陳敬介",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "靜安127",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2991",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2991"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2992",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "彭心怡",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "靜安421",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2992",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2992"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2993",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "簡佩琦",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源416",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2993",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2993"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2994",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "黃慧鳳",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "計308",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2994",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2994"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2995",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "乃俊廷",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸232",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2995",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2995"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2996",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "陳玘秀",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸417",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2996",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2996"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2997",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "張靜茹",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸216",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2997",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2997"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2998",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "藍建春",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣402",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2998",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2998"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2999",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "林宗毅",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣308",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_2999",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_2999"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3000",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "洪然升",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣410",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3000",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3000"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3001",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "汪淑珍",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣309",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3001",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3001"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3002",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "陳瑤玲",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣510",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3002",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3002"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3003",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "黃慧鳳",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸122",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3003",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3003"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3004",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "朱錦雄",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸217",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3004",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3004"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3005",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "謝政修",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸136",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3005",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3005"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3006",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "乃俊廷",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸232",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3006",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3006"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3007",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "陳玘秀",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸417",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3007",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3007"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3008",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "蔡佩均",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "計308",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3008",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3008"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3009",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "洪麗玫",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸134",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3009",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3009"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3010",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "林宗毅",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "任垣308",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3010",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3010"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3011",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "謝政修",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸434",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3011",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3011"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3012",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "洪然升",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "主顧102",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3012",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3012"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3013",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "卓素絹",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "主顧104",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3013",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3013"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3014",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "林灸珍",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "主顧215",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3014",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3014"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3015",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "呂政冠",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "主顧219",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3015",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3015"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3016",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "蕭崇聖",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "主顧211",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3016",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3016"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3017",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "呂素端",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "主顧109",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3017",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3017"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3018",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "邱培超",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "主顧209",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3018",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3018"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3019",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "洪然升",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "主顧102",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3019",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3019"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3020",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "卓素絹",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "主顧104",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3020",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3020"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3021",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "林灸珍",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "主顧215",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3021",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3021"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3022",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "呂政冠",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "主顧219",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3022",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3022"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3023",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "蕭崇聖",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "主顧211",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3023",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3023"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3024",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "陳玘秀",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "主顧109",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3024",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3024"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3025",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#國文"
+        ],
+        "instructor": "傅素春",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    10,
+                    11
+                ],
+                "location": "思源314",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "1142_3025",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "閱讀與書寫(二)",
+        "id": "1142_3025"
+    }
+]

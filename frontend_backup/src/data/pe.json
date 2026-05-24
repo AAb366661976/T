@@ -1,0 +1,2207 @@
+[
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1815",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "李達勝",
+        "dept": "食營",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 3
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_1815",
+        "class_grade": "A",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_1815"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1216",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "林珀璇",
+        "dept": "會計",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 5
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_1216",
+        "class_grade": "B",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_1216"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1880",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "劉承勇",
+        "dept": "應化",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_1880",
+        "class_grade": "A",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_1880"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0822",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "劉嘉豪",
+        "dept": "財工",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_0822",
+        "class_grade": "B",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_0822"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1821",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "李達勝",
+        "dept": "食營",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_1821",
+        "class_grade": "B",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_1821"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1887",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "葉子誠",
+        "dept": "應化",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_1887",
+        "class_grade": "B",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_1887"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1952",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "林家榛",
+        "dept": "化科",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 3
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_1952",
+        "class_grade": "A",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_1952"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1962",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "張維嶽",
+        "dept": "化科",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_1962",
+        "class_grade": "B",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_1962"
+    },
+    {
+        "year": "3",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2008",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "劉承勇",
+        "dept": "化科",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 3
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2008",
+        "class_grade": "C",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_2008"
+    },
+    {
+        "year": "智",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2684",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "林志誠",
+        "dept": "永續",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 3
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2684",
+        "class_grade": "慧",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_2684"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1211",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "葉子誠",
+        "dept": "會計",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 5
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_1211",
+        "class_grade": "A",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_1211"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2127",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "劉承勇",
+        "dept": "觀光",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2127",
+        "class_grade": "A",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_2127"
+    },
+    {
+        "year": "A",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3442",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "邱郁然",
+        "dept": "觀一",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_3442",
+        "class_grade": "a",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_3442"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2132",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "劉麗芳",
+        "dept": "觀光",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 5
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2132",
+        "class_grade": "B",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_2132"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1369",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "林志誠",
+        "dept": "財金",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 5
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_1369",
+        "class_grade": "A",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_1369"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1373",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "薛淳方",
+        "dept": "財金",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 4
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_1373",
+        "class_grade": "B",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_1373"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2214",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "張瀚元",
+        "dept": "國企",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "體育館",
+                "day": 2
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2214",
+        "class_grade": "A",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_2214"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2221",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "李榮煥",
+        "dept": "國企",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "體育館",
+                "day": 2
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2221",
+        "class_grade": "B",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_2221"
+    },
+    {
+        "year": "與",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2695",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "林志誠",
+        "dept": "行銷",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2695",
+        "class_grade": "數",
+        "title": "運動健康與素養(基礎體育)",
+        "id": "PE_2695"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2887",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "張維嶽",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2887",
+        "class_grade": "A",
+        "title": "運動技能與涵養(初級籃球)",
+        "id": "PE_2887"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2888",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "劉承勇",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "室外網球場",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2888",
+        "class_grade": "A",
+        "title": "運動技能與涵養(初級網球)",
+        "id": "PE_2888"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2889",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "呂子平",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2889",
+        "class_grade": "A",
+        "title": "運動技能與涵養(初級羽球)",
+        "id": "PE_2889"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2890",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "李達勝",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2890",
+        "class_grade": "A",
+        "title": "運動技能與涵養(初級桌球)",
+        "id": "PE_2890"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2891",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "劉麗芳",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 4
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2891",
+        "class_grade": "A",
+        "title": "運動技能與涵養(初級排球)",
+        "id": "PE_2891"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2892",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "劉嘉豪",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "田徑場",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2892",
+        "class_grade": "A",
+        "title": "運動技能與涵養(初級壘球)",
+        "id": "PE_2892"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2893",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "葉子誠",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2893",
+        "class_grade": "A",
+        "title": "運動技能與涵養(初級定向越野)",
+        "id": "PE_2893"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2894",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "張維嶽",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "體育館",
+                "day": 5
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2894",
+        "class_grade": "A",
+        "title": "運動技能與涵養(初級重量訓練)",
+        "id": "PE_2894"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2895",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "簡岱芸",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    9,
+                    10
+                ],
+                "location": "體育館",
+                "day": 2
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2895",
+        "class_grade": "A",
+        "title": "運動技能與涵養 (適應體育(二))",
+        "id": "PE_2895"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2896",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "林家榛",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 3
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2896",
+        "class_grade": "A",
+        "title": "運動技能與涵養(初級有氧律動)",
+        "id": "PE_2896"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2897",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "何天照",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 4
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2897",
+        "class_grade": "A",
+        "title": "運動技能與涵養(初級芭蕾健身)",
+        "id": "PE_2897"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2898",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "薛淳方",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "體育館",
+                "day": 4
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2898",
+        "class_grade": "A",
+        "title": "運動技能與涵養(初級鐵人二項)",
+        "id": "PE_2898"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2899",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "葉子誠",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "游泳池",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2899",
+        "class_grade": "A",
+        "title": "運動技能與涵養(初級水陸平衡運動)",
+        "id": "PE_2899"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2900",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "張瀚元",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "田徑場",
+                "day": 3
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2900",
+        "class_grade": "A",
+        "title": "運動技能與涵養(初級足球)",
+        "id": "PE_2900"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2903",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "張維嶽",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 5
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2903",
+        "class_grade": "B",
+        "title": "運動技能與涵養(初級籃球)",
+        "id": "PE_2903"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2904",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "劉承勇",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "室外網球場",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2904",
+        "class_grade": "B",
+        "title": "運動技能與涵養(初級網球)",
+        "id": "PE_2904"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2905",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "呂子平",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2905",
+        "class_grade": "B",
+        "title": "運動技能與涵養(初級羽球)",
+        "id": "PE_2905"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2906",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "李達勝",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 2
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2906",
+        "class_grade": "B",
+        "title": "運動技能與涵養(初級桌球)",
+        "id": "PE_2906"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2907",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "劉麗芳",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "體育館",
+                "day": 4
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2907",
+        "class_grade": "B",
+        "title": "運動技能與涵養(初級排球)",
+        "id": "PE_2907"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2908",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "劉嘉豪",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "田徑場",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2908",
+        "class_grade": "B",
+        "title": "運動技能與涵養(初級壘球)",
+        "id": "PE_2908"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2909",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "葉子誠",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 3
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2909",
+        "class_grade": "B",
+        "title": "運動技能與涵養(初級定向越野)",
+        "id": "PE_2909"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2910",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "何天照",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 5
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2910",
+        "class_grade": "B",
+        "title": "運動技能與涵養(初級重量訓練)",
+        "id": "PE_2910"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2911",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "薛淳方",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 4
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2911",
+        "class_grade": "B",
+        "title": "運動技能與涵養(初級鐵人二項)",
+        "id": "PE_2911"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2912",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "林志誠",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 3
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2912",
+        "class_grade": "C",
+        "title": "運動技能與涵養(初級籃球)",
+        "id": "PE_2912"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2913",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "劉承勇",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "室外網球場",
+                "day": 3
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2913",
+        "class_grade": "C",
+        "title": "運動技能與涵養(初級網球)",
+        "id": "PE_2913"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2914",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "呂子平",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "體育館",
+                "day": 4
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2914",
+        "class_grade": "C",
+        "title": "運動技能與涵養(初級羽球)",
+        "id": "PE_2914"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2915",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "李達勝",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 3
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2915",
+        "class_grade": "C",
+        "title": "運動技能與涵養(初級桌球)",
+        "id": "PE_2915"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2916",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "劉麗芳",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "體育館",
+                "day": 5
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2916",
+        "class_grade": "C",
+        "title": "運動技能與涵養(初級排球)",
+        "id": "PE_2916"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2917",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "楊志豪",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2917",
+        "class_grade": "C",
+        "title": "運動技能與涵養(初級重量訓練)",
+        "id": "PE_2917"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2918",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "林志誠",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2918",
+        "class_grade": "D",
+        "title": "運動技能與涵養(初級籃球)",
+        "id": "PE_2918"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2919",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "劉承勇",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "室外網球場",
+                "day": 4
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2919",
+        "class_grade": "D",
+        "title": "運動技能與涵養(初級網球)",
+        "id": "PE_2919"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2920",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "楊士欣",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 5
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2920",
+        "class_grade": "D",
+        "title": "運動技能與涵養(初級羽球)",
+        "id": "PE_2920"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2921",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "張甄玲",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 4
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2921",
+        "class_grade": "D",
+        "title": "運動技能與涵養(初級桌球)",
+        "id": "PE_2921"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2922",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "吳文鐘",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 2
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2922",
+        "class_grade": "D",
+        "title": "運動技能與涵養(初級排球)",
+        "id": "PE_2922"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2923",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "林志誠",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 5
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2923",
+        "class_grade": "E",
+        "title": "運動技能與涵養(初級籃球)",
+        "id": "PE_2923"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2924",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "邱郁然",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "室外網球場",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2924",
+        "class_grade": "E",
+        "title": "運動技能與涵養(初級網球)",
+        "id": "PE_2924"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2925",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "蕭玉琴",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2925",
+        "class_grade": "E",
+        "title": "運動技能與涵養(初級羽球)",
+        "id": "PE_2925"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2926",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "張甄玲",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "體育館",
+                "day": 5
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2926",
+        "class_grade": "E",
+        "title": "運動技能與涵養(初級桌球)",
+        "id": "PE_2926"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2927",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "張瀚元",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "體育館",
+                "day": 2
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2927",
+        "class_grade": "E",
+        "title": "運動技能與涵養(初級排球)",
+        "id": "PE_2927"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2928",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "邱郁然",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "室外網球場",
+                "day": 2
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2928",
+        "class_grade": "F",
+        "title": "運動技能與涵養(初級網球)",
+        "id": "PE_2928"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2929",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "楊志豪",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "體育館",
+                "day": 1
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2929",
+        "class_grade": "F",
+        "title": "運動技能與涵養(初級羽球)",
+        "id": "PE_2929"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2930",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "張甄玲",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    3,
+                    4
+                ],
+                "location": "體育館",
+                "day": 5
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2930",
+        "class_grade": "F",
+        "title": "運動技能與涵養(初級桌球)",
+        "id": "PE_2930"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2931",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "葉子誠",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 5
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2931",
+        "class_grade": "G",
+        "title": "運動技能與涵養(初級羽球)",
+        "id": "PE_2931"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2932",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#體育"
+        ],
+        "instructor": "林珀璇",
+        "dept": "體必",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "體育館",
+                "day": 5
+            }
+        ],
+        "credits": "1",
+        "course_code": "PE_2932",
+        "class_grade": "H",
+        "title": "運動技能與涵養(初級桌球)",
+        "id": "PE_2932"
+    }
+]

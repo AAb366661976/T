@@ -1,0 +1,4594 @@
+[
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1812",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "柯儒伯",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸432",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1812",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_1812"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1813",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "安迪",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "格倫108",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1813",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_1813"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1875",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "巴布魯克",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸436",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1875",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_1875"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1876",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "周書左",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸123",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1876",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_1876"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3469",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "陳俐亨",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸322",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_3469",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_3469"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1945",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "陳美君",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸336",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1945",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_1945"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1946",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "曾心嫻",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣503",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1946",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_1946"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1947",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "張藝寶",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸422",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1947",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_1947"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0812",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "余詩芸",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "主顧217",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0812",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0812"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0813",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "鄭羽傑",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣304",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0813",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0813"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2679",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "洪明瑩",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣309",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2679",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2679"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1206",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "柯儒伯",
+        "dept": "ACC",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源326",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "ACC_ENGL_1206",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "ACC_ENGL_1206"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1207",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃莉雅",
+        "dept": "ACC",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸436",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "ACC_ENGL_1207",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "ACC_ENGL_1207"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2120",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "安迪",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸336",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2120",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2120"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2121",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃莉雅",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸436",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2121",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2121"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2122",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "周書左",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣302",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2122",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2122"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3500",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "吳采玲",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸423",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_3500",
+        "class_grade": "D",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_3500"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1363",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "張旭琪",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "主顧222",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1363",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_1363"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1364",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃千芬",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸222",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1364",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_1364"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1365",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃芝華",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸216",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1365",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_1365"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2209",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "張藝寶",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸217",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2209",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2209"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2210",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "廖苑君",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸432",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2210",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2210"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3470",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "李岳霖",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸136",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_3470",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_3470"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2688",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "巴布魯克",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸423",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2688",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2688"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2689",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "張文忠",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸217",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2689",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2689"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2690",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "陳麗如",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸413",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2690",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2690"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2770",
+        "degree": "進修學士班",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "白浩廷",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    12,
+                    13
+                ],
+                "location": "思源314",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2770",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2770"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0073",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "吳黛敏",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    2,
+                    3,
+                    4
+                ],
+                "location": "伯鐸113",
+                "day": 5
+            }
+        ],
+        "credits": "3",
+        "URL": "",
+        "course_code": "GEN_ENGL_0073",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0073"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0076",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "陳永豪",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    2,
+                    3,
+                    4
+                ],
+                "location": "伯鐸114",
+                "day": 5
+            }
+        ],
+        "credits": "3",
+        "URL": "",
+        "course_code": "GEN_ENGL_0076",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0076"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0113",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃莉雅",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "伯鐸434",
+                "day": 4
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0113",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0113"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0114",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "廖姿斐",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "伯鐸217",
+                "day": 4
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0114",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0114"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0161",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "宋思煌",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "伯鐸413",
+                "day": 4
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0161",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0161"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0162",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "余莉君",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "伯鐸436",
+                "day": 4
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0162",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0162"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0297",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "柯儒伯",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸434",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0297",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0297"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0453",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "巴布魯克",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸436",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0453",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0453"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0487",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "周書左",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸123",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0487",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0487"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0488",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "陳俐亨",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸322",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0488",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0488"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0489",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "朱曉慧",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源428",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0489",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0489"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3467",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "陳美君",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸134",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_3467",
+        "class_grade": "D",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_3467"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0595",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "邱幸珍",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸217",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0595",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0595"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3468",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "余詩芸",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "主顧217",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_3468",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_3468"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0628",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "邱亞琦",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸423",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0628",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0628"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0629",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "白浩廷",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "任垣402",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0629",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0629"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2374",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "鄭羽傑",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "任垣304",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2374",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2374"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2375",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "洪明瑩",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "任垣309",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2375",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2375"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0766",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "曾心嫻",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "任垣503",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0766",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_0766"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2485",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "柯儒伯",
+        "dept": "IM",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "思源326",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "IM_ENGL_2485",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "IM_ENGL_2485"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2486",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃莉雅",
+        "dept": "IM",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸436",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "IM_ENGL_2486",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "IM_ENGL_2486"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2586",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "巴布魯克",
+        "dept": "CS",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸423",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "CS_ENGL_2586",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "CS_ENGL_2586"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2587",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "張文忠",
+        "dept": "CS",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸217",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "CS_ENGL_2587",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "CS_ENGL_2587"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2588",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃曼玲",
+        "dept": "CS",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸221",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "CS_ENGL_2588",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "CS_ENGL_2588"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "3471",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "陳國豪",
+        "dept": "CS",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸316",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "CS_ENGL_3471",
+        "class_grade": "D",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "CS_ENGL_3471"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2789",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "陳麗如",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸413",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2789",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2789"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2790",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "唐嘉憶",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "主顧217",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2790",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2790"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2791",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "蔡妮燕",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "主顧205",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2791",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2791"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2863",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "張旭琪",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "主顧222",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2863",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2863"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1122",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃芝華",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸216",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1122",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_1122"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2930",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃千芬",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸222",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2930",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2930"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2953",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "吳采玲",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    9,
+                    10
+                ],
+                "location": "伯鐸423",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2953",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_2953"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1762",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "張文忠",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "伯鐸415",
+                "day": 4
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1762",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_1762"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1783",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "張藝寶",
+        "dept": "GEN",
+        "semester": "1141",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "伯鐸416",
+                "day": 4
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1783",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(一)",
+        "id": "GEN_ENGL_1783"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1934",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "柯儒伯",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸432",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1934",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1934"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1935",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "安迪",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "思源426",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1935",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1935"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2004",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "巴布魯克",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸436",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2004",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2004"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2005",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "周書左",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸123",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2005",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2005"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2006",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "陳俐亨",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸322",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2006",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2006"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2086",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "陳美君",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣404",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2086",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2086"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2087",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "曾心嫻",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣503",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2087",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2087"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2088",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "張藝寶",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸422",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2088",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2088"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0752",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "余詩芸",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "主顧217",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0752",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0752"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0753",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "鄭羽傑",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣304",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0753",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0753"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1073",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "洪明瑩",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣309",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1073",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1073"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1232",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "柯儒伯",
+        "dept": "ACC",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源326",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "ACC_ENGL_1232",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "ACC_ENGL_1232"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1233",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃莉雅",
+        "dept": "ACC",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸436",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "ACC_ENGL_1233",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "ACC_ENGL_1233"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2255",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "安迪",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸336",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2255",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2255"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2256",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃莉雅",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸436",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2256",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2256"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2257",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "周書左",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "任垣302",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2257",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2257"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2258",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "吳采玲",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸423",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2258",
+        "class_grade": "D",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2258"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1378",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "張旭琪",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "主顧222",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1378",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1378"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1379",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃千芬",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸222",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1379",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1379"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1380",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃芝華",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸216",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1380",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1380"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1381",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃曼玲",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸416",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1381",
+        "class_grade": "D",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1381"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2342",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "張藝寶",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸217",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2342",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2342"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2343",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "廖苑君",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸432",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2343",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2343"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2344",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "李岳霖",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸136",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2344",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2344"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2345",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "賴提雅",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸216",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2345",
+        "class_grade": "D",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2345"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2421",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "巴布魯克",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸423",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2421",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2421"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2422",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "張文忠",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸217",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2422",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2422"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2423",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "陳麗如",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸413",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2423",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2423"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1501",
+        "degree": "進修學士班",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "白浩廷",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    12,
+                    13
+                ],
+                "location": "思源314",
+                "day": 2
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1501",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1501"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0010",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "吳黛敏",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    2,
+                    3,
+                    4
+                ],
+                "location": "伯鐸113",
+                "day": 5
+            }
+        ],
+        "credits": "3",
+        "URL": "",
+        "course_code": "GEN_ENGL_0010",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0010"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0013",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "陳永豪",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    2,
+                    3,
+                    4
+                ],
+                "location": "伯鐸114",
+                "day": 5
+            }
+        ],
+        "credits": "3",
+        "URL": "",
+        "course_code": "GEN_ENGL_0013",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0013"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0049",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃莉雅",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "伯鐸434",
+                "day": 4
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0049",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0049"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0050",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "廖姿斐",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "伯鐸217",
+                "day": 4
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0050",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0050"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0096",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "宋思煌",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "伯鐸413",
+                "day": 4
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0096",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0096"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0097",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "余莉君",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "伯鐸422",
+                "day": 4
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0097",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0097"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0228",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "柯儒伯",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸432",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0228",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0228"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0373",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "巴布魯克",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸436",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0373",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0373"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0406",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "周書左",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸123",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0406",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0406"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0407",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "陳俐亨",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸322",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0407",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0407"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0408",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "朱曉慧",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "思源428",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0408",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0408"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0409",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "陳美君",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "任垣404",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0409",
+        "class_grade": "D",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0409"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0549",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "邱幸珍",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸434",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0549",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0549"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0550",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "余詩芸",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "主顧217",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0550",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0550"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0576",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "邱亞琦",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "伯鐸423",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0576",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0576"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0577",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "白浩廷",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "任垣402",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0577",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0577"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2494",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "鄭羽傑",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "任垣304",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2494",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2494"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "0669",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "曾心嫻",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    7,
+                    8
+                ],
+                "location": "任垣503",
+                "day": 1
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_0669",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_0669"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2596",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "柯儒伯",
+        "dept": "IM",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "思源326",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "IM_ENGL_2596",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "IM_ENGL_2596"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2597",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃莉雅",
+        "dept": "IM",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸436",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "IM_ENGL_2597",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "IM_ENGL_2597"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2677",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "巴布魯克",
+        "dept": "CS",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸423",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "CS_ENGL_2677",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "CS_ENGL_2677"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2678",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "張文忠",
+        "dept": "CS",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸217",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "CS_ENGL_2678",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "CS_ENGL_2678"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2679",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃曼玲",
+        "dept": "CS",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸416",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "CS_ENGL_2679",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "CS_ENGL_2679"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2680",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "陳國豪",
+        "dept": "CS",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸316",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "CS_ENGL_2680",
+        "class_grade": "D",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "CS_ENGL_2680"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1679",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "陳麗如",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸413",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1679",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1679"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1680",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "唐嘉憶",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "主顧217",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1680",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1680"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1681",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "蔡妮燕",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "主顧224",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1681",
+        "class_grade": "C",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1681"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1783",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "張旭琪",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "主顧222",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1783",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1783"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1784",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃芝華",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸216",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1784",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1784"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1844",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "黃千芬",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸222",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1844",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1844"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1845",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "賴提雅",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    5,
+                    6
+                ],
+                "location": "伯鐸221",
+                "day": 5
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1845",
+        "class_grade": "B",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1845"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "2775",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "吳采玲",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    9,
+                    10
+                ],
+                "location": "伯鐸423",
+                "day": 3
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_2775",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_2775"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1879",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "張文忠",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "伯鐸415",
+                "day": 4
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1879",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1879"
+    },
+    {
+        "year": "1",
+        "ai_weights": {
+            "ai_algo": 0.0,
+            "biz_mgt": 0.0,
+            "data_ana": 0.0,
+            "soft_dev": 0.0,
+            "erp_sys": 0.0,
+            "sys_infra": 0.0
+        },
+        "session_id": "1902",
+        "degree": "大學部",
+        "tags": [
+            "#必修",
+            "#英文"
+        ],
+        "instructor": "張藝寶",
+        "dept": "GEN",
+        "semester": "1142",
+        "schedule": [
+            {
+                "time": [
+                    1,
+                    2
+                ],
+                "location": "伯鐸416",
+                "day": 4
+            }
+        ],
+        "credits": "2",
+        "URL": "",
+        "course_code": "GEN_ENGL_1902",
+        "class_grade": "A",
+        "category": "必修",
+        "title": "英文(二)",
+        "id": "GEN_ENGL_1902"
+    }
+]        
