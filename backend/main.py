@@ -98,10 +98,11 @@ def semester_suffix(semester: str) -> str:
 # ── Request Schema ────────────────────────────────────────────
 class LoginRequest(BaseModel):
     email: EmailStr
-
+    password: str 
 class RegisterRequest(BaseModel):
     email: EmailStr
     name: str
+    password: str
     grade: str                              # 例："三年級"
     class_grade: str                        # 例："A"
     department: str = "資管系"
