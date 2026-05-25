@@ -1,3 +1,4 @@
+serviceAccountKey.json
 # Logs
 logs
 *.log
@@ -67,3 +68,16 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+
+# 系統與編譯產物
+node_modules/
+android/app/build/
+dist/
+__pycache__/
+*.pyc
+
+# 環境設定與機密檔案 (⚠️ 最重要！)
+.env
+serviceAccountKey.json
+*.log
+.DS_Store

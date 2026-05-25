@@ -1,15 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-靜宜大學資管系 課程推薦系統 - FastAPI 後端 v4.5 終極相容版
-修正：解決 404 Not Found、1141/1142 學期錯置、以及大一初級體育課被年級篩選攔截的問題。
+靜宜大學資管系 課程推薦系統 - FastAPI 後端 v4.6
+新增：/login、/register endpoint
+修正：elective return bug（effective → elective）
 """
-
-from bdb import effective
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, EmailStr
-from collections import defaultdict
 import numpy as np
 from sklearn.neighbors import NearestNeighbors
 from sklearn.preprocessing import StandardScaler
@@ -18,7 +16,7 @@ from firebase_admin import credentials, firestore
 from typing import Optional
 
 # ── 初始化 FastAPI ────────────────────────────────────────────
-app = FastAPI(title="個人規劃課程推薦 API v4.5", version="4.5")
+app = FastAPI(title="個人規劃課程推薦 API v4.6", version="4.6")
 
 app.add_middleware(
     CORSMiddleware,
@@ -36,7 +34,6 @@ print(f"🚀 已連線 Firebase 專案：{firebase_admin.get_app().project_id}")
 
 # ── 常數與對照表 ──────────────────────────────────────────────
 FEATURE_KEYS = ["ai_algo", "biz_mgt", "data_ana", "soft_dev", "erp_sys", "sys_infra"]
-SEMESTER_MAP = {"1": "上學期", "2": "下學期"}
 DAY_MAP = {1: "週一", 2: "週二", 3: "週三", 4: "週四", 5: "週五", 6: "週六", 7: "週日"}
 TIME_MAP = {
     1: "08:10", 2: "09:10", 3: "10:10", 4: "11:10",
@@ -99,17 +96,81 @@ KNN_MODEL, SCALER, UNIQUE_ELECTIVES = build_knn_model(ALL_COURSES)
 print(f"✅ 載入完成，共 {len(ALL_COURSES)} 筆，選修 KNN 建模群共 {len(UNIQUE_ELECTIVES)} 門")
 
 # ── Request Schema ────────────────────────────────────────────
+class LoginRequest(BaseModel):
+    email: EmailStr
+
+class RegisterRequest(BaseModel):
+    email: EmailStr
+    name: str
+    grade: str                              # 例："三年級"
+    class_grade: str                        # 例："A"
+    department: str = "資管系"
+    survey_scores: Optional[dict[str, float]] = {}
+
 class RecommendRequest(BaseModel):
     email: EmailStr
-    semester: str  
+    semester: str
     survey_scores: Optional[dict[str, float]] = None
     top_n: int = 5
 
 # ── API 路由 ──────────────────────────────────────────────────
 @app.get("/")
 def root():
-    return {"message": "靜宜資管課程推薦 API v4.5 穩定運作中 🎓"}
+    return {"message": "靜宜資管課程推薦 API v4.6 穩定運作中 🎓"}
 
+
+# ── /login ────────────────────────────────────────────────────
+@app.post("/login")
+def login(req: LoginRequest):
+    """
+    以 email 查詢 Firestore users 集合。
+    找到 → 回傳基本學生資料。
+    找不到 → 404，前端可導向註冊頁。
+    """
+    doc = db.collection("users").document(req.email).get()
+    if not doc.exists:
+        raise HTTPException(status_code=404, detail="帳號不存在，請先註冊")
+
+    data = doc.to_dict()
+    return {
+        "message": "登入成功",
+        "email": req.email,
+        "name": data.get("name", ""),
+        "grade": data.get("grade", ""),
+        "class_grade": data.get("class_grade", ""),
+        "survey_scores": data.get("survey_scores", {}),
+    }
+
+
+# ── /register ─────────────────────────────────────────────────
+@app.post("/register")
+def register(req: RegisterRequest):
+    """
+    以 email 為 document ID 寫入 Firestore users 集合。
+    若已存在則更新（merge）。
+    """
+    doc_ref = db.collection("users").document(req.email)
+    existing = doc_ref.get()
+
+    user_data = {
+        "email": req.email,
+        "name": req.name,
+        "grade": req.grade,
+        "class_grade": req.class_grade,
+        "department": req.department,
+        "survey_scores": req.survey_scores or {},
+    }
+
+    if existing.exists:
+        # 已有帳號 → 更新資料（不覆蓋其他欄位）
+        doc_ref.set(user_data, merge=True)
+        return {"message": "帳號已存在，資料已更新", "email": req.email}
+
+    doc_ref.set(user_data)
+    return {"message": "註冊成功", "email": req.email}
+
+
+# ── /recommend ────────────────────────────────────────────────
 @app.post("/recommend")
 def recommend(req: RecommendRequest):
     try:
@@ -121,14 +182,13 @@ def recommend(req: RecommendRequest):
         db_grade = student_data.get("grade") or student_data.get("year_level") or "三年級"
         class_upper = str(student_data.get("class_grade", "A")).upper()
 
-        # 轉換學籍年級為字串用於比對
         CHINESE_TO_NUM = {"一年級": "1", "二年級": "2", "三年級": "3", "四年級": "4"}
         grade_str = CHINESE_TO_NUM.get(db_grade, "3") if isinstance(db_grade, str) else str(db_grade)
 
         raw_scores = req.survey_scores or student_data.get("survey_scores", {})
         final_interest_vector = [float(raw_scores.get(k, 0)) for k in FEATURE_KEYS]
 
-        # 1. 核心必修課篩選（排除體育相關課程代碼）
+        # 1. 必修課
         required_raw = [
             c for c in ALL_COURSES
             if c.get("category") == "必修"
@@ -147,31 +207,30 @@ def recommend(req: RecommendRequest):
             "course_code": c.get("course_code") or c.get("course_id") or "REQ"
         } for c in deduplicate(required_raw)]
 
-        # 2. 特殊與初級體育課程 ── 🌟 敏芝學期隔離全量捕獲網（炸開年級死鎖限制！）
-        SP_KEYWORDS_EXPANDED = ["英文", "運動", "體育", "閱讀與書寫", "國文", "羽球", "網球", "桌球", "初級", "籃球", "排球", "健身", "游泳"]
-        
+        # 2. 體育 / 特殊課
+        SP_KEYWORDS = ["英文", "運動", "體育", "閱讀與書寫", "國文", "羽球", "網球",
+                       "桌球", "初級", "籃球", "排球", "健身", "游泳"]
         special_raw = []
         for c in ALL_COURSES:
-            c_title = str(c.get("title", "")).lower()
-            c_name = str(c.get("course_name", "")).lower()
-            c_code = str(c.get("course_code", "")).lower()
-            c_id = str(c.get("course_id", "")).lower()
-            c_sem = str(c.get("semester", "")).lower()
-            c_dept = str(c.get("dept", "")).lower()
-            
-            # 精準隔離上、下學期字串
-            is_semester_1 = ("1141" in c_sem or c_sem.endswith("1") or c_sem == "1" or "1141" in c_id)
-            is_semester_2 = ("1142" in c_sem or c_sem.endswith("2") or c_sem == "2" or "1142" in c_id)
-            
-            if req.semester == "1" and not is_semester_1:
+            c_title = str(c.get("title", ""))
+            c_name  = str(c.get("course_name", ""))
+            c_code  = str(c.get("course_code", "")).lower()
+            c_id    = str(c.get("course_id", "")).lower()
+            c_sem   = str(c.get("semester", "")).lower()
+            c_dept  = str(c.get("dept", ""))
+
+            is_sem1 = ("1141" in c_sem or c_sem.endswith("1") or c_sem == "1" or "1141" in c_id)
+            is_sem2 = ("1142" in c_sem or c_sem.endswith("2") or c_sem == "2" or "1142" in c_id)
+
+            if req.semester == "1" and not is_sem1:
                 continue
-            if req.semester == "2" and not is_semester_2:
+            if req.semester == "2" and not is_sem2:
                 continue
-                
-            # 只要是體育部、PE課號、或開課名稱包含大一初級關鍵字，解除大一限制強制放行
-            if "pe_" in c_code or "pe_" in c_id or "體必" in c_dept or any(kw in c_title or kw in c_name for kw in SP_KEYWORDS_EXPANDED):
+
+            if ("pe_" in c_code or "pe_" in c_id or "體必" in c_dept
+                    or any(kw in c_title or kw in c_name for kw in SP_KEYWORDS)):
                 special_raw.append(c)
-                    
+
         special_choices = [{
             "title": c.get("title") or c.get("course_name") or "初級體育課程",
             "instructor": c.get("instructor") or c.get("teacher") or "體育組教授",
@@ -181,7 +240,7 @@ def recommend(req: RecommendRequest):
             "course_code": c.get("course_id") or c.get("course_code") or f"PE_{c.get('title','')}"
         } for c in deduplicate(special_raw)]
 
-        # 3. KNN 智慧推薦選修
+        # 3. KNN 選修推薦
         """eligible_courses = [
             c for c in UNIQUE_ELECTIVES
             if (str(c.get("year")) == grade_str or db_grade in str(c.get("year")))
@@ -209,14 +268,60 @@ def recommend(req: RecommendRequest):
                     "course_code": c.get("course_code") or c.get("course_id") or "ELE"
                 })"""
 
+        elective = []
+
         return {
             "required": required,
-            "elective": effective,
+            "elective": elective,          # ✅ 修正：原本錯寫成 effective
             "special_choices": special_choices
         }
+
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
+class SaveCoursesRequest(BaseModel):
+    email: EmailStr
+    selected_courses: list  # 用來接收前端傳來的選課陣列
+
+# ── /save_courses ─────────────────────────────────────────────
+@app.post("/save_courses")
+def save_courses(req: SaveCoursesRequest):
+    """
+    接收前端傳來的選課清單，並更新到 Firestore 的 users 文件中
+    """
+    try:
+        doc_ref = db.collection("users").document(req.email)
+        if not doc_ref.get().exists:
+            raise HTTPException(status_code=404, detail="找不到該名學生帳號")
+
+        # 將選課陣列存進資料庫，merge=True 代表只更新這個欄位，不會洗掉其他基本資料
+        doc_ref.set({"selected_courses": req.selected_courses}, merge=True)
+        return {"message": "選課紀錄儲存成功", "email": req.email}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+# ==========================================
+# 👆👆👆 新的程式碼到這邊結束 👆👆👆
+# ==========================================
+class GetCoursesRequest(BaseModel):
+    email: EmailStr
+
+# ── /get_courses ─────────────────────────────────────────────
+@app.post("/get_courses")
+def get_courses(req: GetCoursesRequest):
+    """
+    接收前端的 email，從 Firestore 抓取該學生的選課紀錄並回傳
+    """
+    try:
+        doc_ref = db.collection("users").document(req.email).get()
+        if not doc_ref.exists:
+            return {"selected_courses": []} # 找不到人就給空陣列
+            
+        data = doc_ref.to_dict()
+        # 回傳資料庫裡的 selected_courses，如果沒有這個欄位就回傳空陣列
+        return {"selected_courses": data.get("selected_courses", [])}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
