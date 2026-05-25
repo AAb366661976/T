@@ -4,7 +4,7 @@
 新增：/login、/register endpoint
 修正：elective return bug（effective → elective）
 """
-
+import bcrypt
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, EmailStr
@@ -72,11 +72,11 @@ def semester_suffix(semester: str) -> str:
     return str(semester)[-1] if semester else ""
 
 # ── 預先載入全量課程與建立 KNN 模型 ────────────────────────────
-print("📦 正在從 Firebase 載入全量課程資料...")
-docs = db.collection("courses").stream()
-ALL_COURSES = [doc.to_dict() for doc in docs]
+#print("📦 正在從 Firebase 載入全量課程資料...")
+#docs = db.collection("courses").stream()
+#ALL_COURSES = [doc.to_dict() for doc in docs]
 
-def build_knn_model(courses: list):
+#def build_knn_model(courses: list):
     electives = [
         c for c in courses
         if c.get("category") == "選修"
@@ -92,8 +92,8 @@ def build_knn_model(courses: list):
     knn.fit(X_scaled)
     return knn, scaler, unique
 
-KNN_MODEL, SCALER, UNIQUE_ELECTIVES = build_knn_model(ALL_COURSES)
-print(f"✅ 載入完成，共 {len(ALL_COURSES)} 筆，選修 KNN 建模群共 {len(UNIQUE_ELECTIVES)} 門")
+#KNN_MODEL, SCALER, UNIQUE_ELECTIVES = build_knn_model(ALL_COURSES)
+#print(f"✅ 載入完成，共 {len(ALL_COURSES)} 筆，選修 KNN 建模群共 {len(UNIQUE_ELECTIVES)} 門")
 
 # ── Request Schema ────────────────────────────────────────────
 class LoginRequest(BaseModel):
@@ -119,55 +119,41 @@ def root():
     return {"message": "靜宜資管課程推薦 API v4.6 穩定運作中 🎓"}
 
 
-# ── /login ────────────────────────────────────────────────────
-@app.post("/login")
-def login(req: LoginRequest):
-    """
-    以 email 查詢 Firestore users 集合。
-    找到 → 回傳基本學生資料。
-    找不到 → 404，前端可導向註冊頁。
-    """
-    doc = db.collection("users").document(req.email).get()
-    if not doc.exists:
-        raise HTTPException(status_code=404, detail="帳號不存在，請先註冊")
 
-    data = doc.to_dict()
-    return {
-        "message": "登入成功",
-        "email": req.email,
-        "name": data.get("name", ""),
-        "grade": data.get("grade", ""),
-        "class_grade": data.get("class_grade", ""),
-        "survey_scores": data.get("survey_scores", {}),
-    }
 
 
 # ── /register ─────────────────────────────────────────────────
 @app.post("/register")
 def register(req: RegisterRequest):
-    """
-    以 email 為 document ID 寫入 Firestore users 集合。
-    若已存在則更新（merge）。
-    """
-    doc_ref = db.collection("users").document(req.email)
-    existing = doc_ref.get()
-
+    # 將密碼轉為 bytes 並進行雜湊
+    hashed_pw = bcrypt.hashpw(req.password.encode('utf-8'), bcrypt.gensalt())
+    
+    # 將雜湊後的密碼存入資料庫 (記得存成字串)
     user_data = {
         "email": req.email,
-        "name": req.name,
-        "grade": req.grade,
-        "class_grade": req.class_grade,
-        "department": req.department,
-        "survey_scores": req.survey_scores or {},
+        "password": hashed_pw.decode('utf-8'), # 存入雜湊值
+        # ...其他欄位...
     }
+    db.collection("users").document(req.email).set(user_data)
+    return {"status": "success"}
 
-    if existing.exists:
-        # 已有帳號 → 更新資料（不覆蓋其他欄位）
-        doc_ref.set(user_data, merge=True)
-        return {"message": "帳號已存在，資料已更新", "email": req.email}
-
-    doc_ref.set(user_data)
-    return {"message": "註冊成功", "email": req.email}
+# --- 登入時：將用戶輸入的密碼進行雜湊比對 ---
+@app.post("/login")
+def login(req: LoginRequest):
+    doc_ref = db.collection("users").document(req.email)
+    doc = doc_ref.get()
+    
+    if not doc.exists:
+        return {"status": "error", "message": "無此帳號"}
+    
+    user_data = doc.to_dict()
+    db_hashed_pw = user_data.get("password").encode('utf-8')
+    
+    # 使用 bcrypt.checkpw 比對輸入的密碼與資料庫中的雜湊值
+    if bcrypt.checkpw(req.password.encode('utf-8'), db_hashed_pw):
+        return {"status": "success"}
+    else:
+        return {"status": "error", "message": "密碼錯誤"}
 
 
 # ── /recommend ────────────────────────────────────────────────
@@ -286,18 +272,16 @@ class SaveCoursesRequest(BaseModel):
 # ── /save_courses ─────────────────────────────────────────────
 @app.post("/save_courses")
 def save_courses(req: SaveCoursesRequest):
-    """
-    接收前端傳來的選課清單，並更新到 Firestore 的 users 文件中
-    """
+    print(f"DEBUG: 準備寫入資料: {req.selected_courses}")
     try:
         doc_ref = db.collection("users").document(req.email)
-        if not doc_ref.get().exists:
-            raise HTTPException(status_code=404, detail="找不到該名學生帳號")
-
-        # 將選課陣列存進資料庫，merge=True 代表只更新這個欄位，不會洗掉其他基本資料
+        # 加入 print 來確認寫入動作
+        print("DEBUG: 執行寫入動作...")
         doc_ref.set({"selected_courses": req.selected_courses}, merge=True)
-        return {"message": "選課紀錄儲存成功", "email": req.email}
+        print("DEBUG: 寫入指令已發送")
+        return {"message": "成功"}
     except Exception as e:
+        print(f"❌ Firebase 寫入失敗: {e}") # ⚡️ 如果這裡有印出字，就是錯誤根源
         raise HTTPException(status_code=500, detail=str(e))
 # ==========================================
 # 👆👆👆 新的程式碼到這邊結束 👆👆👆
@@ -322,6 +306,11 @@ def get_courses(req: GetCoursesRequest):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
     
+@app.post("/save_courses")
+def save_courses(req: SaveCoursesRequest):
+    doc_ref = db.collection("users").document(req.email)
+    doc_ref.set({"selected_courses": req.selected_courses}, merge=True)
+    return {"message": "儲存成功"}
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
